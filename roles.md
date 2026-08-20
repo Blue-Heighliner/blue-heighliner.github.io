@@ -28,7 +28,6 @@ The Heighliner organization defines three roles across its repositories. Each ro
 | Name | GitHub Username | Repositories |
 |------|------------------|---------------|
 | Matthew Fish | [@TheFishDeveloper](https://github.com/TheFishDeveloper) | [Beacon](https://github.com/Blue-Heighliner/Beacon) |
-| | | |
  
 ## Contributors
  
